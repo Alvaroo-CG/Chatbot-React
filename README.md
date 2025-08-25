@@ -1,12 +1,23 @@
-# React + Vite
+# DulceBot 🍩☕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura](https://github.com/user-attachments/assets/a7cd1530-c112-4119-ba02-27848ebdc36a)
 
-Currently, two official plugins are available:
+DulceBot es un chatbot interactivo desarrollado con React e integrado con la API de Gemini de Google, diseñado para brindar asistencia virtual en una cafetería o pastelería. Su objetivo es ofrecer una experiencia más personalizada y cercana, con un tono dulce y temático para los usuarios.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎯 Características
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Chat interactivo con React y API de Gemini 🤖
+- Experiencia conversacional temática para cafeterías/pastelerías 🍰
+- Gestión segura de variables de entorno
+- UI/UX amigable y adaptable a dispositivos móviles 📱
+- Deploy en Netlify ☁️
+
+---
+
+
+## 🚀 Link del proyecto
+
+Prueba el chatbot en tu navegador:  
+[🌐 DulceBot en Netlify](https://dulcebot.netlify.app)
